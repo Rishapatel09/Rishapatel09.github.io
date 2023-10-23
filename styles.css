@@ -1,5 +1,5 @@
 body {
-  background:#276dc6;
+  background:#55d0db;
   font-family: Arial;
 }
 h1 {
@@ -8,11 +8,11 @@ text-align: center;
 }
 .assign {
  display: flex;
- padding: 20px;
- margin: 20px;
+ padding: 10px;
+ margin: 10px;
  background:#cef2ac;
 }
 .assign img {
  width: 200px;
- padding: 50px;
+ padding: 10px;
 }
