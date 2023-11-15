@@ -12,7 +12,7 @@ a {
 }
 .assign img {
  padding: 300px;
- border: 2px solid midnightblue; 
+ border: 1px solid midnightblue; 
 }
 .assign {
  display: flex;
