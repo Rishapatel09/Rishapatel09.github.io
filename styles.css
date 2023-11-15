@@ -11,7 +11,7 @@ a {
  color: black; 
 }
 .assign img {
- padding: 10px; /* change this from margin to padding */
+ padding: 200px; /* change this from margin to padding */
  border: 2px solid midnightblue; /* try dashed, dotted */
 }
 .assign {
