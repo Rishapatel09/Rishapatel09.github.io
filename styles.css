@@ -1,27 +1,45 @@
 body {
   background:#55d0db;
   font-family: Arial;
+  display: flex;
+  flew-wrap: wrap;
 }
 h1 {
-color:Black;
-text-align: center;
+ color:Black;
+ text-align: center;
+ width: 100%;
+ display: block;
+
+}
+h1: hover {
+ color: Lightblue;
+ text-align: center;
+ width: 100%;
+ display: block;
 }
 a {
  text-decoration: none; 
  color: black; 
 }
-.assign img {
- padding: 300px;
- border: 1px dotted midnightblue; 
-}
 .assign {
- display: flex;
- padding: 10px;
+ background-color: grey;
  margin: 10px;
- background:#cef2ac;
+ padding: 10px;
+ border-radius: 20px;
+ width: 20%;
+ box-shadow: 8px 8px brown;
+ display: block; /* instead of flex */ 
+ 
 }
 .assign img {
  width: 200px;
- padding: 10px;
+ margin: 10px;
+ border: 2px solid midnightblue;
 }
+.assign img:hover {
+ width: 200px;
+ margin: 10px;
+ border: 2px dotted yellow;
+}
+
 
